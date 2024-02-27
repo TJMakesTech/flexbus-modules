@@ -41,9 +41,9 @@ There are now also a series of powerful Risc-V MCU's available for under 1USD, a
 
 ## Prototypes Ordered:
 - Xiao Adapter board
-- OLED Display
+- OLED Display (Colour!)
 
-## Needs Refinement
+## Firmware Issues
 -  2.4GHz Radio (NRF24L alternative).
   
 ## Coming Soon:
