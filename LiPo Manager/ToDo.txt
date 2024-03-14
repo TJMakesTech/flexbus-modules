@@ -1,0 +1,1 @@
+Add CC1 and CC2 Resistors to enable USB-C Power Output
